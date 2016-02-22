@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[.addClass("${1:hide}");]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>ac</tabTrigger>
+    <!-- Optional: Description to show in the menu -->
+    <description>jQuery Add-class Protostrap PS</description>
+</snippet>

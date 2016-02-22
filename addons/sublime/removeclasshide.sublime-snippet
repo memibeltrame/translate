@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[.removeClass("${1:hide}");]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>rc</tabTrigger>
+    <!-- Optional: Description to show in the menu -->
+    <description>jQuery Remove-class Protostrap PS</description>
+</snippet>
